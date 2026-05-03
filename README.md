@@ -18,7 +18,7 @@
 ### Méthode rapide
 
 1. Rendez-vous sur la page [**Releases**](https://github.com/NoahJustCodding/royaume-des-lords/releases/latest)
-2. Téléchargez `Le.Royaume.des.Lords.Setup.exe`
+2. Téléchargez `royaume.des.lords.setup.exe`
 3. Lancez l'installeur et suivez les étapes
 4. Connectez-vous avec votre compte Microsoft
 5. Choisissez un modpack et jouez !
